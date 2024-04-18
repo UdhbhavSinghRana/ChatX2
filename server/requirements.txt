@@ -1,0 +1,9 @@
+fastapi==0.103.1
+nltk==3.8.1
+numpy==1.26.0
+pydantic==2.3.0
+pydantic-extra-types==2.1.0
+pydantic-settings==2.0.3
+pydantic_core==2.6.3
+python-dotenv==1.0.0
+uvicorn==0.23.2
